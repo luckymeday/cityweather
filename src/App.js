@@ -118,6 +118,8 @@ class App extends Component {
             <h2 className="col-12">{this.state.locationName}</h2>
             <h3 className="col-12 text-danger">{this.state.temp}</h3>
             <h3 className="col-12">{this.state.description}</h3>
+
+            <h5>made with 💖 by Jeesun</h5>
           </div>
         </div>
       </div>
